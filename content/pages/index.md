@@ -37,7 +37,7 @@ sections:
       elementId: ''
       type: ImageBlock
     badge:
-      label: social media marketing
+      label: social media marketing-With GHL
       color: text-primary
       type: Badge
     elementId: ''
