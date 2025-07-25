@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: We're In The Business Of Helping You Grow Your Business
+      text: We're In The Business Of Helping You Grow Your Business with G
       color: text-dark
       type: TitleBlock
     subtitle: Need Assistance with Social Media Marketing
