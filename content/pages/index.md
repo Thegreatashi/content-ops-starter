@@ -68,6 +68,8 @@ sections:
           - pl-16
           - pb-16
           - pr-16
+      text:
+        textAlign: center
     backgroundImage:
       type: BackgroundImage
       altText: altText of the image
