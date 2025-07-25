@@ -13,7 +13,7 @@ sections:
           fontWeight: 400
     subtitle: Need Assistance with Social Media Marketing
     text: >
-      ### Unlock the Full Power of GoHighLevel — With Expert Setup & Support
+      Unlock the Full Power of GoHighLevel — With Expert Setup & Support
 
 
       **Ready to supercharge your business with GoHighLevel but not sure where
@@ -45,7 +45,7 @@ sections:
         elementId: ''
         type: Link
     media:
-      url: /images/Screenshot 2025-07-25 at 10.55.33 AM.png
+      url: /images/hero3.svg
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock
@@ -64,6 +64,8 @@ sections:
           - pl-16
           - pb-16
           - pr-16
+      text:
+        textAlign: left
     backgroundImage:
       type: BackgroundImage
       altText: altText of the image
