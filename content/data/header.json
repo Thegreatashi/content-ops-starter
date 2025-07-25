@@ -59,7 +59,7 @@
                     "type": "Link"
                 },
                 {
-                    "label": "Dropdown item",
+                    "label": "SaaS Setup",
                     "url": "/",
                     "icon": "arrowRight",
                     "iconPosition": "right",
