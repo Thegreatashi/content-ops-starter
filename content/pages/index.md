@@ -13,11 +13,7 @@ sections:
           fontWeight: 400
     subtitle: Need Assistance with Social Media Marketing
     text: >
-      ```
-
       Unlock the Full Power of GoHighLevel — With Expert Setup & Support
-
-      ```
 
 
       **Ready to supercharge your business with GoHighLevel but not sure where
