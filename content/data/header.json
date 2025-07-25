@@ -65,17 +65,6 @@
                     "iconPosition": "right",
                     "style": "secondary",
                     "type": "Link"
-                },
-                {
-                    "type": "Link",
-                    "label": "",
-                    "altText": "",
-                    "url": "/",
-                    "showIcon": false,
-                    "icon": "arrowRight",
-                    "iconPosition": "right",
-                    "style": "secondary",
-                    "elementId": ""
                 }
             ],
             "labelStyle": "secondary",
