@@ -133,10 +133,9 @@ sections:
       - title: Automation &Workflow Design
         subtitle: Faster
         text: >
-          Maximize efficiency with smart automations and custom workflows that
-          actually convert. Our custom-built systems don’t just save time — they
-          drive real conversions by delivering the right message to the right
-          person at the right time.
+          Maximize efficiency with smart automations. Our custom-built systems
+          don’t just save time — they drive real conversions by delivering the
+          right message to the right person at the right time.
         image:
           url: /images/icon3.svg
           altText: Featured icon three
