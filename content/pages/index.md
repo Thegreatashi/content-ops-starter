@@ -80,10 +80,9 @@ sections:
       - type: FeaturedItem
         title: Platform Setup
         subtitle: Numbers Done
-        text: >+
-          # We configure every feature of **GoHighLevel** tailored to your
+        text: >
+          We configure every feature of **GoHighLevel** tailored to your
           business model — no generic templates, just real results.
-
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
