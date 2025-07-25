@@ -130,7 +130,7 @@ sections:
             textAlign: left
             justifyContent: center
         type: FeaturedItem
-      - title: Automation &Workflow Design
+      - title: Automation
         subtitle: Faster
         text: >
           Maximize efficiency with smart automations. Our custom-built systems
