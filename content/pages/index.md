@@ -45,7 +45,7 @@ sections:
         elementId: ''
         type: Link
     media:
-      url: /images/Screenshot 2025-07-25 at 10.55.33 AM.png
+      url: /images/hero3.svg
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock
