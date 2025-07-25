@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Unblock your team boost your time to production
+      text: We're In The Business Of Helping You Grow Your Business
       color: text-dark
       type: TitleBlock
     subtitle: Need Assistance with Social Media Marketing
