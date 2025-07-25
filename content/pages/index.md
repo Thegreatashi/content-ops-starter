@@ -85,7 +85,7 @@ sections:
           business model. No generic templates, just real results.
         actions: []
         elementId: null
-        colors: bg-neutralAlt-fg-dark
+        colors: bg-neutral-fg-dark
         styles:
           self:
             padding:
