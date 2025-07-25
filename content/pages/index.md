@@ -69,7 +69,7 @@ sections:
           - pb-16
           - pr-16
       text:
-        textAlign: center
+        textAlign: left
     backgroundImage:
       type: BackgroundImage
       altText: altText of the image
