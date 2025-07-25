@@ -10,6 +10,7 @@ sections:
       styles:
         self:
           textAlign: center
+          fontWeight: 700
     subtitle: Need Assistance with Social Media Marketing
     text: >
       ### Unlock the Full Power of GoHighLevel — With Expert Setup & Support
