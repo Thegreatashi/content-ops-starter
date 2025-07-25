@@ -7,6 +7,9 @@ sections:
       text: We're In The Business Of Helping You Grow Your Business
       color: text-dark
       type: TitleBlock
+      styles:
+        self:
+          textAlign: center
     subtitle: Need Assistance with Social Media Marketing
     text: >
       ### Unlock the Full Power of GoHighLevel — With Expert Setup & Support
