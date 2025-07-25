@@ -106,7 +106,7 @@ sections:
             self:
               borderRadius: x-large
         tagline: Complete
-      - title: 20x
+      - title: SaaS Setup
         subtitle: The Job Stuff
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
