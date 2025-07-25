@@ -89,7 +89,7 @@
                     "elementId": ""
                 }
             ],
-            "labelStyle": "primary",
+            "labelStyle": "secondary",
             "type": "SubNav"
         }
     ],
