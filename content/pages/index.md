@@ -112,7 +112,8 @@ sections:
         subtitle: White-Label
         text: >
           Want to resell GoHighLevel as your own software? We’ll build your
-          white-labeled platform from scratch — branding, domain, and all.
+          white-labeled platform from scratch — from custom logo and color
+          schemes to domain setup and backend configuration.
         image:
           url: /images/icon2.svg
           altText: Featured icon two
