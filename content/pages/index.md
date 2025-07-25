@@ -82,7 +82,8 @@ sections:
         subtitle: Numbers Done
         text: >
           We configure every feature of **GoHighLevel** tailored to your
-          business model. No generic templates, just real results.
+          business model. No one-size-fits-all solutions — just a fully
+          optimized platform built to deliver real, measurable results.
         actions: []
         elementId: null
         colors: bg-neutral-fg-dark
