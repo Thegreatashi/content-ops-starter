@@ -9,9 +9,18 @@ sections:
       type: TitleBlock
     subtitle: Need Assistance with Social Media Marketing
     text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+      ### Unlock the Full Power of GoHighLevel — With Expert Setup & Support
+
+
+      **Ready to supercharge your business with GoHighLevel but not sure where
+      to start? We’ve got you covered.**
+
+
+      Our team specializes in helping businesses like yours get the *most* out
+      of GoHighLevel. From setting up your CRM, automations, pipelines, and
+      funnels — to launching SMS campaigns, managing reputation, or building
+      white-label SaaS — we take care of everything, so you can focus on what
+      matters most: **growing your business.**
     actions:
       - label: Get started
         altText: ''
