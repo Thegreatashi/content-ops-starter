@@ -78,15 +78,15 @@ sections:
     subtitle: Subtitle goes here
     items:
       - type: FeaturedItem
-        title: 500k
+        title: Platform Setup
         subtitle: Numbers Done
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          We configure every feature of **GoHighLevel** tailored to your
+          business model. No one-size-fits-all solutions — just a fully
+          optimized platform built to deliver real, measurable results.
         actions: []
         elementId: null
-        colors: bg-neutralAlt-fg-dark
+        colors: bg-neutral-fg-dark
         styles:
           self:
             padding:
@@ -98,27 +98,29 @@ sections:
             flexDirection: row
             justifyContent: center
             textAlign: left
+            borderStyle: double
         image:
           type: ImageBlock
           altText: Lightning bolt symbol on red background
           elementId: ''
-          url: /images/icon1.svg
+          url: /images/avatar2.svg
           styles:
             self:
               borderRadius: x-large
-      - title: 20x
-        subtitle: The Job Stuff
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        tagline: Complete
+      - title: SaaS Setup
+        subtitle: White-Label
+        text: >
+          Want to resell GoHighLevel as your own software? We’ll build your
+          white-labeled platform from scratch — from custom logo and color
+          schemes to domain setup and backend configuration.
         image:
           url: /images/icon2.svg
           altText: Featured icon two
           elementId: ''
           type: ImageBlock
         actions: []
-        colors: bg-neutralAlt-fg-dark
+        colors: bg-neutral-fg-dark
         styles:
           self:
             padding:
@@ -131,19 +133,19 @@ sections:
             textAlign: left
             justifyContent: center
         type: FeaturedItem
-      - title: 200%
-        subtitle: Faster
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+      - title: Automation
+        subtitle: Workflow
+        text: >
+          Maximize efficiency with smart automations. Our custom-built systems
+          don’t just save time — they drive real conversions by delivering the
+          right message to the right person at the right time.
         image:
           url: /images/icon3.svg
           altText: Featured icon three
           elementId: ''
           type: ImageBlock
         actions: []
-        colors: bg-neutralAlt-fg-dark
+        colors: bg-neutral-fg-dark
         styles:
           self:
             padding:
@@ -173,7 +175,7 @@ sections:
       type: Badge
     elementId: ''
     variant: three-col-grid
-    colors: bg-neutral-fg-dark
+    colors: bg-light-fg-dark
     styles:
       self:
         padding:
