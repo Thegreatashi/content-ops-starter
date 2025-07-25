@@ -106,6 +106,7 @@ sections:
           styles:
             self:
               borderRadius: x-large
+        tagline: Complete
       - title: 20x
         subtitle: The Job Stuff
         text: >-
