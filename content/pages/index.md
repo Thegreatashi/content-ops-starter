@@ -131,7 +131,7 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: Automation
-        subtitle: Faster
+        subtitle: Workflow
         text: >
           Maximize efficiency with smart automations. Our custom-built systems
           don’t just save time — they drive real conversions by delivering the
