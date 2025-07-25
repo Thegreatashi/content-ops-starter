@@ -80,10 +80,9 @@ sections:
       - type: FeaturedItem
         title: Platform Setup
         subtitle: Numbers Done
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          We configure every feature of GoHighLevel tailored to your business
+          model — no generic templates, just real results.
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
