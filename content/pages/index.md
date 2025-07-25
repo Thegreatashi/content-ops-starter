@@ -107,7 +107,7 @@ sections:
               borderRadius: x-large
         tagline: Complete
       - title: SaaS Setup
-        subtitle: The Job Stuff
+        subtitle: White-Label
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
